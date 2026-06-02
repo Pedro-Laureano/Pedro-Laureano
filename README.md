@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, me chamo Pedro! 👋
 
-<!--
-**Pedro-Laureano/Pedro-Laureano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação (conclusão em 2026) e Analista de Operações, morando em Goiânia/GO. Tenho foco em automação de processos e análise de dados, e gosto de usar a tecnologia para resolver problemas reais do dia a dia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que uso
+
+**Linguagens:** Python · SQL · JavaScript · Java
+
+---
+
+## 📚 Sobre mim
+
+- 🎓 Cursando Ciência da Computação, com conclusão prevista em 2026
+- 💼 Atuo como Analista de Operações, com experiência em automação com Python e gestão de dados no Excel
+- 📍 Goiânia, Goiás — Brasil
+- 🚀 Construindo meu portfólio e sempre aberto a aprender coisas novas
+
+---
+
+## 📈 GitHub Stats
+
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Laureano&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Laureano&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+*Fique à vontade para explorar meus repositórios e trocar uma ideia!*
