@@ -1,6 +1,6 @@
 # Olá, me chamo Pedro! 👋
 
-Sou estudante de Ciência da Computação (conclusão em 2026) e Analista de Operações, morando em Goiânia/GO. Tenho foco em automação de processos e análise de dados, e gosto de usar a tecnologia para resolver problemas reais do dia a dia.
+Sou estudante de Ciência da Computação (7° período) e Analista OP, morando em Goiânia/GO. Tenho foco em automação de processos e análise de dados, e gosto de usar a tecnologia para resolver problemas reais do dia a dia.
 
 ---
 
@@ -12,7 +12,7 @@ Sou estudante de Ciência da Computação (conclusão em 2026) e Analista de Ope
 
 ## 📚 Sobre mim
 
-- 🎓 Cursando Ciência da Computação, com conclusão prevista em 2026
+- 🎓 Cursando Ciência da Computação, 7° período
 - 💼 Atuo como Analista de Operações, com experiência em automação com Python e gestão de dados no Excel
 - 📍 Goiânia, Goiás — Brasil
 - 🚀 Construindo meu portfólio e sempre aberto a aprender coisas novas
