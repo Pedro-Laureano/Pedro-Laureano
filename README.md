@@ -6,8 +6,9 @@ Sou estudante de Ciência da Computação (7° período) e Analista OP, morando 
 
 ## 🛠️ Tecnologias que uso
 
-**Linguagens:** Python · SQL · JavaScript · Java
-**Ferramentas:** Power BI · Excel
+-**Linguagens:** Python · SQL · JavaScript · Java
+
+-**Ferramentas:** Power BI · Excel
 ---
 
 ## 📚 Sobre mim
