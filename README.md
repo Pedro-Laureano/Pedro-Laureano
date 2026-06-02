@@ -21,12 +21,6 @@ Sou estudante de Ciência da Computação (7° período) e Analista de Operaçõ
 
 ---
 
-## 📈 GitHub Stats
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Laureano&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Laureano&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 *Fique à vontade para explorar meus repositórios e trocar uma ideia!*
